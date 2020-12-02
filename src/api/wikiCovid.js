@@ -1,5 +1,5 @@
 import cheerio from 'cheerio'
-import fetch from 'node-fetch'
+//import fetch from 'node-fetch'
 
 var dataStatic = [
     ['ar', 'Argentina', 11517, 45974000],
